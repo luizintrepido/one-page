@@ -1,4 +1,4 @@
-# Jordan-shoes
+# One Page
  
 <h2>💻 Sobre o projeto</h2>
 Projeto criado para praticar as habilidades em HTML e CSS. Pagina inicial fictícia. Desafio proposto pela Codelandia.
