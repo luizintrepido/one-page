@@ -87,6 +87,8 @@ body {
   margin-top: 100px;
   background-color: rgba(249, 249, 249, 1);
   margin-bottom: 150px;
+  
+ 
 }
 
 .quad {
@@ -236,6 +238,7 @@ textarea {
 }
 
 .btn-2 {
+  cursor: pointer;
   height: 50px;
   width: 474px;
   border: none;
@@ -251,6 +254,8 @@ textarea {
   line-height: 24px;
   letter-spacing: 0em;
 }
+
+
 
 @media only screen and (max-width: 787px) {
   img {
@@ -286,4 +291,5 @@ textarea{
 
 button{
   max-width: 350px;
+}
 }
